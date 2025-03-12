@@ -1,0 +1,2 @@
+export const HEADER_IMAGE_URL = "https://cdn.prod.website-files.com/60c6002b3fee00bd705d0f75/6101838f56905bbb3a3d3a50_green-logo.svg";
+export const TABLE_DATA_API = "https://raw.githubusercontent.com/saaslabsco/frontend-assignment/refs/heads/master/frontend-assignment.json";
